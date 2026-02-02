@@ -25,3 +25,5 @@ Along with increasing DNN model scale, the training cost is becoming a new probl
 - **Mixed-Precision & Cross-block Strategy:** propose a novel cross-block BM MAC unit that allows independent block and tile sizes and utilizes a higher precision buffer to improve accuracy.
 - **GEMM Kernel Design:** BM GEMM kernel that supports runtime configuration of precision for forward and back-propagation computation.
 - **DSP Packing for Training:** A novel, packed 4-bit BM MAC unit that can compute six independent multiplications per DSP is presented.
+
+The results of this research were published in **TRETS 2024**.
