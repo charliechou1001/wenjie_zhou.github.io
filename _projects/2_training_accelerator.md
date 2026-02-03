@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 4-bit Training Accelerator
+title: FPGA-based block minifloat training accelerator for a time series prediction network
 description: Mixed-precision neural network training using 4-bit block minifloat.
 importance: 2
 category: PhD Research
 ---
 
-Along with increasing DNN model scale, the training cost is becoming a new problem for energy-efficient AI. This project develops an improved block arithmetic algorithm and implementation methodology for training, specifically examining kernel design under different block arithmetic implementations. We utilize an N-BEATS based training accelerator to demonstrate the advantages of block arithmetic in handling gradient updates at extremely low bit-widths.
+Along with increasing DNN model scale, the training cost is becoming a new problem for energy-efficient AI. This project develops an block arithmetic implementation methodology  for the local block for training, and block arithmetic GEMM kernel design. We utilize an N-BEATS based training accelerator to demonstrate the advantages of block arithmetic in handling gradient updates at extremely low bit-widths.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
