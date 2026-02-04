@@ -27,14 +27,14 @@ Prior to my PhD, I earned my Master's degree from **Peking University**, where I
 
 ## Research Interests
 
-- **Hardware Acceleration:** FPGA-based AI training and inference.
+- **Hardware Acceleration:** FPGA-based AI training acceleration.
 - **Computer Arithmetic:** Low-precision block arithmetic such as Block Minifloat, Microscaling (MX) formats, and NVFP4.
 - **Deep Learning:** Time-series forecasting and industrial machine vision.
 
 ## Education
 
 - **Ph.D. in Computer Engineering**, University of Sydney, 2019 — 2025
-- **M.S. in Electronics**, Peking University, 2013 — 2017
+- **M.S. in Electronics and Communication Engineering**, Peking University, 2013 — 2017
 - **B.S. in Electrical Engineering**, East China University of Science and Technology, 2009 — 2013
 
 ## Skills
