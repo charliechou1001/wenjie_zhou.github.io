@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Block arithmetic for local block
+title: Block Arithmetic For Local Block
 description: Mixed-precision neural network training using 4-bit block minifloat.
 img: assets/img/publication_preview/BMGEMM-intro.png
 importance: 2
