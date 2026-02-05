@@ -1,7 +1,8 @@
 ---
 layout: page
-title: BM Inference Accelerator
+title: Block Arithmetic for Global Block
 description: Hardware-efficient implementation of N-BEATS using block minifloat (BM) arithmetic.
+img: assets/img/publication_preview/BM_inference_gemm-Systolic_array.png
 importance: 1
 category: work
 ---
