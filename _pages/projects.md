@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thesis 
+title: Thesis
 permalink: /projects/
 description: An introduction of my thesis
 nav: true
