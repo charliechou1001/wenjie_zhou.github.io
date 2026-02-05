@@ -12,9 +12,9 @@ profile:
     <p>School of Electrical and Computer Engineering</p>
     <p>University of Sydney, Australia</p>
 
-news: true
-selected_papers: true
-social: true
+news: false
+selected_papers: false
+social: false
 ---
 
 ## About Me
