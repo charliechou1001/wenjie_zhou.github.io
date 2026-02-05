@@ -14,7 +14,7 @@ horizontal: false
 **Block Arithmetic Techniques for the Implementation of Deep Neural Networks**  
 University of Sydney, 2025 | Supervisor: Prof. Philip Leong
 
-📥 [Download Full Thesis (PDF)]({{ site.baseurl }}/assets/pdf/zhou_phd_thesis.pdf)
+📥 [Download Full Thesis (PDF)]({{ site.baseurl }}/assets/pdf/Thesis_Wenjie_Zhou.pdf)
 
 ---
 
