@@ -2,6 +2,7 @@
 layout: page
 title: Delay Update Scheme
 description: Efficient block arithmetic rescaling for neural network training acceleration.
+img: assets/img/publication_preview/clipping-intro.png
 importance: 3
 category: work
 ---
