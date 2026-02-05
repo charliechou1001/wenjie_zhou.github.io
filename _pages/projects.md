@@ -1,12 +1,21 @@
 ---
 layout: page
-title: projects
+title: Thesis 
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: An introduction of my thesis
 nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
+---
+
+## PhD Dissertation
+
+**Block Arithmetic Techniques for the Implementation of Deep Neural Networks**  
+University of Sydney, 2025 | Supervisor: Prof. Philip Leong
+
+📥 [Download Full Thesis (PDF)]({{ site.baseurl }}/assets/pdf/zhou_phd_thesis.pdf)
+
 ---
 
 <!-- pages/projects.md -->
